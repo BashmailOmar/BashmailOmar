@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Bashmail</h1>
-<h3 align="center">Mobile application developer</h3>
+<h3 align="center">Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bashmailomar&label=Profile%20views&color=0e75b6&style=flat" alt="bashmailomar" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/bashmail_omar" target="blank"><img src="https://img.shields.io/twitter/follow/bashmail_omar?logo=twitter&style=for-the-badge" alt="bashmail_omar" /></a> </p>
 
-- 🔭 I’m currently working on Alquran-Alshamel
+- 🔭 I’m currently working on ---
 
-- 🌱 I’m currently learning **OutSystems and Flutter**
+- 🌱 I’m currently learning **OutSystems, Spring, Hibernate and Flutter**
 
 - 💬 Ask me about **Android, OutSystems and Flutter**
 
