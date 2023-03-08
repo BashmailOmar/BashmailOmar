@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/bashmail_omar" target="blank"><img src="https://img.shields.io/twitter/follow/bashmail_omar?logo=twitter&style=for-the-badge" alt="bashmail_omar" /></a> </p>
 
-- 🔭 I’m currently working on E-commerce application using flutter
+- 🔭 I’m currently working on ---
 
-- 🌱 I’m currently learning **OutSystems, Spring, Hibernate and Flutter**
+- 🌱 I’m currently learning **OutSystems and React**
 
 - 💬 Ask me about **Android, OutSystems and Flutter**
 
