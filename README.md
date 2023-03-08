@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on ---
 
-- 🌱 I’m currently learning **OutSystems and React**
+- 🌱 I’m currently learning **OutSystems, Flutter and React**
 
 - 💬 Ask me about **Android, OutSystems and Flutter**
 
