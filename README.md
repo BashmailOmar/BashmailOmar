@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bashmailomar" alt="bashmailomar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bashmail_omar" target="blank"><img src="https://img.shields.io/twitter/follow/bashmail_omar?logo=twitter&style=for-the-badge" alt="bashmail_omar" /></a> </p>
-
-- 🔭 I’m currently working on Alquran-Alshamel
+- 🔭 I’m currently working on **Alquran-Alshamel**
 
 - 🌱 I’m currently learning **Angular**
 
