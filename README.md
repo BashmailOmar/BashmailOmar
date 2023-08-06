@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bashmailomar" alt="bashmailomar" /></a> </p>
 
-- 🔭 I’m currently working on **an e-commerce application using angular**
+- 🔭 I’m currently working on **an application using angular**
 
 - 🌱 I’m currently learning **Angular**
 
