@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Angular, Outsystems, Android, Flutter, Liferay and Alfresco**
+- 💬 Ask me about **Flutter, Outsystems, Android, Angular, Liferay and Alfresco**
 
 - 📫 How to reach me **bashmailomar@gmail.com**
 
