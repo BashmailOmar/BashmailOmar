@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bashmailomar" alt="bashmailomar" /></a> </p>
 
-- 🔭 I’m currently working on **an application using Flutter**
+- 🔭 I’m currently working on **an application using NextJs**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **NextJs**
 
-- 💬 Ask me about **Flutter, Outsystems, Android, Angular, Liferay and Alfresco**
+- 💬 Ask me about **NextJs, Flutter, Outsystems, Android, Angular, Liferay and Alfresco**
 
 - 📫 How to reach me **bashmailomar@gmail.com**
 
