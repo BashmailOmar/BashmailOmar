@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **SAAS Application using ReactJs**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Data Structure**
 
-- 💬 Ask me about **ReactJs, NextJs, Outsystems, and Flutter**
+- 💬 Ask me about **Outsystems, ReactJs, NextJs, and Flutter**
 
 - 📫 How to reach me **bashmailomar@gmail.com**
 
